@@ -16,19 +16,19 @@ title: TeaVA
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
             <video width="320" height="240" controls>
-                <source src="/assets/img/1/groundtruth.mp4" type="video/mp4">
+                <source src="/assets/video/1/groundtruth.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
 		<td> <!-- 表格的单元格 -->
             <video width="320" height="240" controls>
-                <source src="/assets/img/1/specvqgan.mp4" type="video/mp4">
+                <source src="/assets/video/1/specvqgan.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
 		<td> <!-- 表格的单元格 -->
             <video width="320" height="240" controls>
-                <source src="/assets/img/1/im2wav.mp4" type="video/mp4">
+                <source src="/assets/video/1/im2wav.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
@@ -41,19 +41,19 @@ title: TeaVA
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
             <video width="320" height="240" controls>
-                <source src="/assets/img/1/diffsound.mp4" type="video/mp4">
+                <source src="/assets/video/1/diffsound.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
 		<td> <!-- 表格的单元格 -->
             <video width="320" height="240" controls>
-                <source src="/assets/img/1/diff-foley.mp4" type="video/mp4">
+                <source src="/assets/video/1/diff-foley-small.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
 		<td> <!-- 表格的单元格 -->
             <video width="320" height="240" controls>
-                <source src="/assets/img/1/ours.mp4" type="video/mp4">
+                <source src="/assets/video/1/ours.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
