@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeaVA
+title: TiVA
 ---
 
 <div id="contact">

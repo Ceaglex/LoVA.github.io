@@ -1,14 +1,13 @@
 ---
 layout: default
-title: TeaVA
+title: TiVA
 ---
 
 <div class="post">
-	<h2 class="pageTitle">TeaVA:</h2>
-	<h2 class="pageTitle">Temporal Aligned Video-to-Audio Generation</h2>
+	<h2 class="pageTitle">TiVA:</h2>
+	<h2 class="pageTitle">TiVA: Time-Aligned Video-to-Audio Generation</h2>
     <p align="center">
-	<img src="{{ '/assets/img/framework.png' | relative_url }}" alt="">
+	<img src="{{ '/assets/img/arch_Tiva.png' | relative_url }}" alt="">
     </p>
-	<p>Video-to-Audio is essentially important for video generation and post-production, but it is challenging to generate high-quality sound for any silent video in the criteria of semantic similarity and temporal synchronization. Previous methods focus on semantic matching only or leverage contrastive audio-visual pretraining to learn that are temporally and semantically aligned in a coarse granularity. In this paper, to ensure more precise correspondence between video and audio, we propose a novel framework that disentangles semantic and temporal encoding and explicitly use both as conditions to control latent diffusion model based generation. We propose a simple but effective tempo layout that can simultaneously supervise the temporal encoder and condition the audio generator. 
-Moreover, we propose two new fine-grained metrics to evaluate temporal synchronization, one of which 99\% correlates with human evaluation results. Experiments on large scale Video-to-Audio dataset indicate that our proposed method achieves state-of-the-art performance in various automatic metrics. Subjective evaluation shows it is dramatically superior to all baselines.</p>
+	<p>Video-to-audio generation is crucial for autonomous video editing and post-processing, which aims to generate high-quality audio for silent videos with semantic similarity and temporal synchronization. However, most existing methods mainly focus on matching the semantics of the visual and acoustic modalities while merely considering their temporal alignment in a coarse granularity, thus failing to achieve precise synchronization on time. In this study, we propose a novel time-aligned video-to-audio generator, called TiVA, to achieve semantic matching and temporal synchronization jointly when generating audio. Given a silent video, our method encodes its visual semantics and predicts a tempo layout separately. Then, leveraging the semantic latent codes and the predicted tempo layout as condition information, it learns a latent diffusion-based audio generator. Comprehensive objective and subjective experiments demonstrate that our method consistently outperforms state-of-the-art methods on semantic matching and temporal synchronization precision.</p>
 </div>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TeaVA
+title: TiVA
 ---
 
 <div class="post">
@@ -36,7 +36,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
@@ -90,7 +90,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
@@ -144,7 +144,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
@@ -198,7 +198,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
@@ -252,7 +252,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
@@ -306,7 +306,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
@@ -360,7 +360,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
@@ -414,7 +414,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
@@ -468,7 +468,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
@@ -521,7 +521,7 @@ title: TeaVA
 	<tr> <!-- 表格的一行 -->
         <th style="width: 320px;">DiffSound-V</th> <!-- 表头单元格 -->
         <th style="width: 320px;">Diff-Foley</th> <!-- 表头单元格 -->
-		<th style="width: 320px;">TeaVA (Ours)</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">TiVA (Ours)</th> <!-- 表头单元格 -->
     </tr>
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
