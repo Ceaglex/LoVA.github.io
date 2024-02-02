@@ -5,7 +5,7 @@ title: TiVA
 
 <div class="post">
 	<h2 class="pageTitle">TiVA:</h2>
-	<h2 class="pageTitle">TiVA: Time-Aligned Video-to-Audio Generation</h2>
+	<h2 class="pageTitle">Time-Aligned Video-to-Audio Generation</h2>
     <p align="center">
 	<img src="{{ '/assets/img/arch_Tiva.png' | relative_url }}" alt="">
     </p>
