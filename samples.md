@@ -6,6 +6,7 @@ title: TiVA
 <div class="post">
 	<h2 class="pageTitle">Demos</h2>
 	<p>It is recommended to use earphones to hear the demos videos, raise the volume and zoom in the videos.</p>
+    <h4 class="pageTitle">Section 1: Comparison with baseline models.</h4>
 	<table border="0"> <!-- 表格边框设置为1 -->
 	<tr>1. Sample 1: Eagle screaming.</tr>
     <tr> <!-- 表格的一行 -->
@@ -545,4 +546,34 @@ title: TiVA
     </tr>
 </table>
 
+<h4 class="pageTitle">Section 2: Generated audios for videos from Sora.</h4>
+<p><a href="https://openai.com/research/video-generation-models-as-world-simulators">Sora</a> is a text-conditional diffusion models which can generate high fidelity videos. We use Sora's generated videos as input, generating corresponding audios for these videos.</p>
+
+<table border="0"> <!-- 表格边框设置为1 -->
+    <tr> <!-- 表格的一行 -->
+        <th style="width: 320px;">Video 1</th> <!-- 表头单元格 -->
+        <th style="width: 320px;">Video 2</th> <!-- 表头单元格 -->
+		<th style="width: 320px;">Video 3</th> <!-- 表头单元格 -->
+    </tr>
+    <tr> <!-- 表格的另一行 -->
+        <td> <!-- 表格的单元格 -->
+            <video width="320" height="240" controls>
+                <source src="./assets/video/sora/d1_00_10_06.mp4" type="video/mp4">
+                您的浏览器不支持视频标签。
+            </video>
+        </td>
+		<td> <!-- 表格的单元格 -->
+            <video width="320" height="240" controls>
+                <source src="./assets/video/sora/promp_ing_5_05.mp4" type="video/mp4">
+                您的浏览器不支持视频标签。
+            </video>
+        </td>
+		<td> <!-- 表格的单元格 -->
+            <video width="320" height="240" controls>
+                <source src="./assets/video/sora/promp_ing_7_05.mp4" type="video/mp4">
+                您的浏览器不支持视频标签。
+            </video>
+        </td>
+    </tr>
+</table>
 </div>
