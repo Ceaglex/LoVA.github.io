@@ -72,7 +72,6 @@ title: LoVA
 
 
 
-
 <h4 class="pageTitle">Section 2: Long-Form UnAV100 results.</h4>
 <table border="0"> <!-- 表格边框设置为1 -->
     <tr> <!-- 表格的一行 -->
@@ -83,7 +82,7 @@ title: LoVA
     <tr> <!-- 表格的另一行 -->
         <td> <!-- 表格的单元格 -->
             <video width="320" height="240" controls>
-                <source src="./assets/img/1/diffsound.mp4" type="video/mp4">
+                <source src="./assets/video/sora/d1_00_10_06.mp4" type="video/mp4">
                 您的浏览器不支持视频标签。
             </video>
         </td>
