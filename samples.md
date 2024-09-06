@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TiVA
+title: LoVA
 ---
 
 <div class="post">
