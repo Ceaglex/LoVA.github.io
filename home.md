@@ -7,7 +7,7 @@ title: LoVA
 	<h2 class="pageTitle">LoVA:</h2>
 	<h2 class="pageTitle">Long-Form Video-to-Audio Generation</h2>
     <p align="center">
-	<img src="{{ '/assets/img/arch_Tiva.png' | relative_url }}" alt="">
+	<img src="{{ '/assets/img/arch_LoVA.png' | relative_url }}" alt="">
     </p>
-	<p>Video-to-audio (V2A) generation is essential for video and film editing, enabling the creation of semantically aligned audio from silent video. Existing methods, however, typically generate fixed-length short audio clips (e.g., 10 seconds) from short video segments, overlooking scenarios involving long-form video input. To address this limitation, we introduce a new task: long-form video-to-audio generation. We propose LoVA, a novel V2A model based on the DiT architecture, as a replacement for the commonly used Unet-based diffusion model. LoVA can generate audio clips up to 30 seconds long at a 44.1kHz sampling rate. Our experimental results demonstrate that LoVA achieves comparable performance on 10-second V2A benchmarks and sets new state-of-the-art results on long-form V2A benchmarks, highlighting the superiority of the DiT structure over Unet in long-form audio generation.</p>
+	<p>Video-to-Audio (V2A) generation, aiming to produce synchronized and realistic sound effects for silent videos, is widely applied in video editing, sound effect creation and autonomous content enhancement. Existing V2A methods have succeeded in generating fixed-length, short audios.However, generating audio for variable-length, long-form videos in practical applications remains a significant challenge.These challenges highlight the need for more flexible V2A models that can effectively handle the long-form input videos, as well as a well-established benchmark for long-form V2A generation.</p>
 </div>
