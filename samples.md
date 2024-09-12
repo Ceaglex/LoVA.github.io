@@ -10,9 +10,10 @@ title: LoVA
 <div class="post">
 	<h2 class="pageTitle">Demos</h2>
 	<p>It is recommended to use earphones to hear the demos videos, raise the volume and zoom in the videos.
-	<br>Since the video is relatively long, we appreciate your patience while the server loads the content. Thank you!
+	<br>We select both 10-second samples from VGGSound and long-form samples form UnAV100. Since the video is relatively long, we appreciate your patience while the server loads the content. Thank you!
     </p>
 </div>
+
 
 
 
@@ -681,4 +682,3 @@ title: LoVA
         </td>
     </tr>
 </table>
-
